@@ -72,4 +72,4 @@ highlight_name: false
 Разработка проектных чертежей, визуализация проекта. Выезд на объекты, уход за садом, ведение деловой переписки 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume_KC.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Загрузить мое {{< staticref "media/Resume_KC.pdf" "newtab" >}}Резюме{{< /staticref >}}.
