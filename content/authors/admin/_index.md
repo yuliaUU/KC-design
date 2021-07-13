@@ -19,22 +19,18 @@ bio:
 # Interests to show in About widget
 interests:
  - Teaching
- - Research
- - Data Science 
- - Earth and Ocean Sciences
- - Programming in R
- - Curriculum & Course Design
+
  
  
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Earth and Ocean Sciences
-    institution: University of British Columbia 
-    year: 2017-present
-  - course: MSc in Earth and Ocean Sciences
-    institution: University of British Columbia 
+  - course: Магистр
+    institution: Российский государственный аграрный университет. 
     year: 2016
+  - course: Специалист 
+    institution: Российский государственный аграрный университет 
+    year: 2012
 
 
 
@@ -49,10 +45,13 @@ social:
   link: k_s_egorova@mail.ru
 - icon: instagram
   icon_pack: fab
-  link: https://github.com/yuliaUU
-- icon: linkedin
+  link: @ksenia_kc
+- icon: whatsapp
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: +79099466409
+- icon: facebook
+  icon_pack: fab
+  link: ksenia.KC.gardern
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
