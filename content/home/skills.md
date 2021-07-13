@@ -14,7 +14,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Skills
+title: Знание программ
 subtitle:
 
 # Showcase personal skills or business features.
@@ -22,29 +22,26 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: ''
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: laptop
+  icon_pack: fabfas
+  name: Microsoft Office
 - description: ''
-  icon: microscope
+  icon: drafting-compass
   icon_pack: fas
-  name: Research
+  name: AutoCAD
 - description: ''
-  icon: chart-line
+  icon: photo-video
   icon_pack: fas
-  name: Data Analysis
+  name: Photoshop
 - description: ''
-  icon: chart-area
+  icon: cubes
   icon_pack: fas
-  name: Data Visualization
+  name: SketchUp
 - description: ''
-  icon: chalkboard-teacher
+  icon: mountain
   icon_pack: fas
-  name: Teaching
-- description: ''
-  icon: edit
-  icon_pack: fas
-  name: Course Design
+  name: Enscape
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
