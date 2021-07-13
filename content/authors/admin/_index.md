@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Yulia Egorova
+title: Сергеева Ксения Владимировна
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Ландшафтный дизайнер
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of British Columbia
-  url: https://www.ubc.ca/
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -35,12 +35,7 @@ education:
   - course: MSc in Earth and Ocean Sciences
     institution: University of British Columbia 
     year: 2016
-  - course: BSc in Environmental Chemistry
-    institution: Thompson Rivers University
-    year: 2012
-  - course: BSc in Chemical Engineering   
-    institution: Mendeleyev University of Chemical Technology
-    year: 2010
+
 
 
  
@@ -51,19 +46,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: https://twitter.com/EgorovaUu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.ca/citations?user=0iErUx4AAAAJ&hl=en&oi=ao
-- icon: github
+  link: k_s_egorova@mail.ru
+- icon: instagram
   icon_pack: fab
   link: https://github.com/yuliaUU
-- icon: stack-overflow
-  icon_pack: fab
-  link: https://stackoverflow.com/users/3617715/yuliauu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -73,16 +59,16 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: media/Resume_KC.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yegorova@eoas.ubc.ca"
+email: "k_s_egorova@mail.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a PhD student at the University of British Columbia. My research interests are diverse and include modelling of zooplankton distrubutions in global ocean, educational reaserach and computational chemistry. 
+Разработка проектных чертежей, визуализация проекта. Выезд на объекты, уход за садом, ведение деловой переписки 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume_KC.pdf" "newtab" >}}resumé{{< /staticref >}}.
