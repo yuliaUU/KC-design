@@ -23,7 +23,7 @@ subtitle:
 feature:
 - description: ''
   icon: laptop
-  icon_pack: fabfas
+  icon_pack: fas
   name: Microsoft Office
 - description: ''
   icon: drafting-compass
