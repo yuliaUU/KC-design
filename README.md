@@ -1,3 +1,3 @@
 
-Link to digital CV: https://yuliaegorova.netlify.app/
+Link to digital portfolio: https://kc-design.netlify.app/
 
