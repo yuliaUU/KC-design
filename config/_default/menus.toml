@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "Teaching"
+  name = "Опыт работы"
   url = "#experience"
   weight = 20
 
 [[main]]
-  name = "Research"
+  name = "Портфолио"
   url = "#projects"
   weight = 30
 
@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  name = "Achievements"
+  name = "Достижения"
   url = "#accomplishments"
   weight = 40
 
