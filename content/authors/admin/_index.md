@@ -10,11 +10,11 @@ role: Ландшафтный дизайнер
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: ''
+  url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: ''
 
 # Interests to show in About widget
 interests:
@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Магистр
+  - course: Магистр по направлению Ландшафтная архитектура
     institution: Российский государственный аграрный университет. 
     year: 2016
-  - course: Специалист 
+  - course: Инженер по специальности « Садово-парковое и ландшафтное строительство»
     institution: Российский государственный аграрный университет 
     year: 2012
 
@@ -42,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: k_s_egorova@mail.ru
+  link: 'k_s_egorova@mail.ru'
 - icon: instagram
   icon_pack: fab
-  link: @ksenia_kc
+  link: '@ksenia_kc'
 - icon: whatsapp
   icon_pack: fab
-  link: +79099466409
+  link: '+79099466409'
 - icon: facebook
   icon_pack: fab
-  link: ksenia.KC.gardern
+  link: https://www.facebook.com/ksenia.KC.garden/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

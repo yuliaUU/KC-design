@@ -15,7 +15,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Achievements'
+title: 'Достижения'
 subtitle:
 
 # Date format
@@ -31,7 +31,7 @@ item:
   - organization: 'Воронежский международный фестиваль "Город-сад"'
     organization_url: 'https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards'
     title: '1 место в номинации "Большой сад 2020" за проект «Red Garden»'
-    url: ''
+    url: 'https://www.facebook.com/gorodsadvoronezh/photos/a.328426514284531/1015593308901178'
     certificate_url: ''
     date_start: '2020-08-01'
     date_end: ''
@@ -39,7 +39,7 @@ item:
   - organization: 'Правительство Москвы'
     organization_url: ''
     title: 'Лауреат премии Правительства Москвы 2012 '
-    url: ''
+    url: 'http://mosopen.ru/document/820_rp_2012-12-25'
     certificate_url: ''
     date_start: '2012-09-01'
     date_end: ''
