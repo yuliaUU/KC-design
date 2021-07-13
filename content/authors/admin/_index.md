@@ -18,10 +18,12 @@ bio: ''
 
 # Interests to show in About widget
 interests:
- - Teaching
+ - Фотография
+ - 3D графика
+ - Путешествия
+ - Спорт
 
- 
- 
+  
 # Education to show in About widget
 education:
   courses:
@@ -45,7 +47,7 @@ social:
   link: https://www.instagram.com/ksenia_kc/
 - icon: instagram
   icon_pack: fab
-  link: '@ksenia_kc'
+  link: https://www.instagram.com/ksenia_kc/
 - icon: whatsapp
   icon_pack: fab
   link: '+79099466409'
