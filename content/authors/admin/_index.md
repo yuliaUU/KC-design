@@ -48,13 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: https://www.instagram.com/ksenia_kc/
+  link: static/card.md
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/ksenia_kc/
 - icon: whatsapp
   icon_pack: fab
-  link: '+79099466409'
+  link: static/card.md
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ksenia.KC.garden/
