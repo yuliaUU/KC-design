@@ -17,8 +17,7 @@ organizations:
 bio: ''
 
 # Interests to show in About widget
-title: Сергеева
-interests:
+interests1:
  - Высокая работоспособность
  - Творческое мышление
  - Художественный вкус
