@@ -41,7 +41,10 @@ feature:
   icon: mountain
   icon_pack: fas
   name: Enscape
-
+- description: ''
+  icon: pencil-ruler
+  icon_pack: fas
+  name: CorelDraw
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
