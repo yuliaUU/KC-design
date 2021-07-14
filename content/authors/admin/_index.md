@@ -48,13 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:your-email@example.com
+  link: mailto:k_s_egorova@mail.ru
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/ksenia_kc/
 - icon: whatsapp
   icon_pack: fab
-  link: /static/media/card.md
+  link: tel:+79099466409
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ksenia.KC.garden/
