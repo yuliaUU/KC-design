@@ -13,7 +13,10 @@
 
 .col-md-7 h3 {
   content: "";
+  visibility: hidden;
 }
+
 .col-md-7 h3:after {
   content: "Образование";
+  
 }
