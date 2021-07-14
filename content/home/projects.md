@@ -28,17 +28,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Oceanography
-    tag: oceanography
-  - name: Education
-    tag: education
-  - name: Internships
-    tag: internship
-  - name: MSc thesis
-    tag: msc
-  - name: PhD thesis
-    tag: phd
- 
+  - name: Реализованные проекты
+    tag: real
+  - name: Визуализации проектов 
+    tag: visual
+  - name: Рабочая документация
+    tag: docs
+  - name: Конкурсы
+    tag: comp
+  - name: Фотосъемка  садов
+    tag: photo
+  - name: Создание прогулок по саду
+    tag: progulki
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
