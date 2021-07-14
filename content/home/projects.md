@@ -28,17 +28,17 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Реализованные проекты
+  - name: Реализация
     tag: real
-  - name: Визуализации проектов 
+  - name: Визуализация
     tag: visual
-  - name: Рабочая документация
+  - name: Документация
     tag: docs
   - name: Конкурсы
     tag: comp
-  - name: Фотосъемка  садов
+  - name: Фотосъемка
     tag: photo
-  - name: Создание прогулок по саду
+  - name: Видеосъемка
     tag: progulki
 
 design:
