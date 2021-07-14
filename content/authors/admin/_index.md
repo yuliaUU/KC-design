@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: /static/card.md
+  link: mailto:your-email@example.com
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/ksenia_kc/
