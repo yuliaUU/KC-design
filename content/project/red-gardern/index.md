@@ -57,4 +57,6 @@ slides: example
 
 ![](\static\media\red-gardern-pic\СпецификацияЗона2.jpg)
 
+<img class="special-img-class" src="/Генплан.jpg" />
+
 
