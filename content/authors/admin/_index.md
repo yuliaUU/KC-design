@@ -18,7 +18,6 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-- name: ''
  - Высокая работоспособность
  - Творческое мышление
  - Художественный вкус
