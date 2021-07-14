@@ -17,7 +17,7 @@ organizations:
 bio: ''
 
 # Interests to show in About widget
-interests0:
+interests:
  - Высокая работоспособность
  - Творческое мышление
  - Художественный вкус
