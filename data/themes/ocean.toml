@@ -6,6 +6,8 @@ light = true
 
 # Primary
 primary = "#297B76"
+primary_light = "#297B76"
+primary_dark = "#297B76"
 
 # Menu
 menu_primary = "#297B76" # Material 500
