@@ -1,9 +1,9 @@
 ---
-title: Salmon Research
-summary: investigation of  the early marine stage in the population of juvenile sockeye salmon in Rivers Inlet (BC, Canada)  
+title: Red Gardern
+summary: 1 МЕСТО в номинации "Большой сад 2020"
 tags:
-- oceanography
-- msc
+- comp
+
 
 date: "2009-05-01T00:00:00Z"
 
@@ -11,7 +11,7 @@ date: "2009-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo courtesy of Oregon Sea Grant
+  caption: @ksenia_kc
   focal_point: Smart
 
 #links:
@@ -32,8 +32,21 @@ image:
 slides: example
 ---
 
-My Master’s project was to investigate the early marine stage in the population of juvenile sockeye salmon in Rivers Inlet (BC, Canada) during their outmigration to the Pacific Ocean. Specifically, my research focused on the understanding the effect of climate change on the physiological state of juvenile sockeye. Predictive models, obtained in my research, were able to predict the state of the fish based on the environmental parameters and size of the fish at entry into marine environment. These findings may be very useful for fisheries managers as a tool that may help to improve the return estimates. In addition, the one of the major component of my study was chemical analysis of salmon otolith on LA-ICP/MS.
 
+"Красный сад"
+Автор: Сергеева Ксения Владимировна
+Авторский коллектив: Мастерская ландшафтного дизайна Александры Тимофеевой, г. Москва.
+О дизайнере: Ландшафтный дизайнер, 3D визуализатор.
+![](\content\project\red-gardern\IMG_20200417_071832_449.jpg)
+![](\content\project\red-gardern\IMG_20200417_071857_846.jpg)
+🥀 Концепция:
 
+Главная задача проекта - создание сада (145м2) с доминирующим красным цветом, но при этом, изменить устойчивое мнение о красном цвете, как о чём-то броском и агрессивном.
+
+В данном проекте красный - доминанта, но доминанта спокойствия, уюта и тепла. Так как в главной роли цвет, а не цветы, растения для миксбордеров подобраны по принципу «ненавязчивости», т.е. не перебивающие восприятие основного цвета. Включены цветущие растения, которые хорошо сочетаются и выгодно оттеняют доминантное цветовое решение.
+![](\content\project\red-gardern\Генплан.jpg)
+![](\content\project\red-gardern\Дендроплан.jpg)
+![](\content\project\red-gardern\СпецификацияЗона1.jpg)
+![](\content\project\red-gardern\СпецификацияЗона2.jpg)
 
 
