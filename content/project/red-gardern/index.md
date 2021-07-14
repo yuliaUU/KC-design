@@ -57,6 +57,6 @@ slides: example
 
 <img class="special-img-class" src="/static/media/СпецификацияЗона1.jpg" />
 
-<img class="special-img-class" src="/static/media/СпецификацияЗона2.jpg" />
+<img class="special-img-class" src="/media/СпецификацияЗона2.jpg" />
 
 
