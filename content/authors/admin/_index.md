@@ -54,7 +54,7 @@ social:
   link: https://www.instagram.com/ksenia_kc/
 - icon: whatsapp
   icon_pack: fab
-  link: /static/media/card.md
+  link: tel:+79099466409
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ksenia.KC.garden/
