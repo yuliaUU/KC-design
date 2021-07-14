@@ -54,7 +54,7 @@ social:
   link: https://www.instagram.com/ksenia_kc/
 - icon: whatsapp
   icon_pack: fab
-  link: /static/card.md
+  link: /static/media/card.md
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ksenia.KC.garden/
