@@ -38,8 +38,8 @@ content:
     tag: comp
   - name: Фотосъемка
     tag: photo
-  - name: Видеосъемка
-    tag: progulki
+  - name: 3D-прогулка
+    tag: 3d
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
