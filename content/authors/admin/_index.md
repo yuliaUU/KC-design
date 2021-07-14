@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:your-email@example.com
+  link: mailto:k_s_egorova@mail.ru
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/ksenia_kc/
