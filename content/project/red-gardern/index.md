@@ -39,7 +39,9 @@ slides: example
 
 
 <img class="special-img-class" src="/static/media/rg1.jpg" />
+
 <img class="special-img-class" src="/static/media/rg2.jpg" />
+
 <img class="special-img-class" src="/static/media/rg3.jpg" />
 
 
@@ -50,8 +52,11 @@ slides: example
 В данном проекте красный - доминанта, но доминанта спокойствия, уюта и тепла. Так как в главной роли цвет, а не цветы, растения для миксбордеров подобраны по принципу «ненавязчивости», т.е. не перебивающие восприятие основного цвета. Включены цветущие растения, которые хорошо сочетаются и выгодно оттеняют доминантное цветовое решение.
 
 <img class="special-img-class" src="/static/media/Генплан.jpg" />
+
 <img class="special-img-class" src="/static/media/Дендроплан.jpg" />
+
 <img class="special-img-class" src="/static/media/СпецификацияЗона1.jpg" />
+
 <img class="special-img-class" src="/static/media/СпецификацияЗона2.jpg" />
 
 
