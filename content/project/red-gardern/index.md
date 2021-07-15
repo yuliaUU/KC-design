@@ -57,4 +57,6 @@ slides: example
 <img class="special-img-class" src="/media/СпецификацияЗона2.jpg" />
 
 
-{{< video library="true" src="/media/KC.mp4.mp4" controls="yes" >}}
+{{< video library="true" src="/KC.mp4.mp4" controls="yes" >}}
+
+{{< gallery album="redgardern" >}}
