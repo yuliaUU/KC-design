@@ -33,7 +33,6 @@ slides: example
 ---
 
 
-
 ### Галерея
 
 {{< gallery album="galery" >}}
