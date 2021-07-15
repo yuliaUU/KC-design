@@ -1,6 +1,6 @@
 ---
-title: Реализация- КП Кратово
-summary: Реализованные сады
+title: Реализация - КП Кратово
+summary: empty
 tags:
 - real
 
@@ -33,7 +33,11 @@ slides: example
 ---
 
 
+
 ### Галерея
 
-{{< gallery album="galery" >}}
+{{< gallery album="kratovo" >}}
+
+
+
 
