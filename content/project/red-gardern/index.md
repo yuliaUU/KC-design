@@ -56,8 +56,5 @@ slides: example
 
 <img class="special-img-class" src="/media/СпецификацияЗона2.jpg" />
 
-<video width="320" height="240" controls>
-  <source src="/media/KC.mp4" type="video/mp4">
-</video>
 
-{{< video library = "1" src='KC.mp4' controls='yes'>}}
+{{< video library="true" src="KC.mp4.mp4" controls="yes" >}}
