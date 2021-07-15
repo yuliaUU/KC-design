@@ -44,4 +44,4 @@ slides: example
 
 {{< gallery album="redgardern" >}}
 
-{{< youtube 2eYWC2uOHu4 >}}
+{{< youtube g6_vwDAnlUM >}}
