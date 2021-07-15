@@ -1,6 +1,6 @@
 ---
 title: Генеральный план
-summary: EMPTY
+summary: empty 
 tags:
 - visual
 
@@ -31,8 +31,6 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-
 
 ### Планировка
 
