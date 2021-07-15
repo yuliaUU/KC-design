@@ -58,6 +58,10 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ksenia.KC.garden/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UC4v7Jr5PCLljUl2i9fsrybA/videos
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
