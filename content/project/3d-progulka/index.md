@@ -33,7 +33,9 @@ slides: example
 ---
 
 {{< youtube IzIyz0H-7Uo >}}
+
 {{< youtube u3QrytcgJZY >}}
+
 {{< youtube iOdyqEgXbuE >}}
 
 
