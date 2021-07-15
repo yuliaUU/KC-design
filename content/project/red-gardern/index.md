@@ -59,4 +59,4 @@ slides: example
 
 {{< video library="true" src="/media/KC.mp4.mp4" controls="yes" >}}
 
-{{< gallery album="<redgardern>" >}}
+{{< gallery album="redgardern" >}}
