@@ -34,12 +34,12 @@ slides: example
 На фото вверху Генеральный план сада в пейзажном стиле
 
 
-{{< figure src="2.jpg" caption="Генеральный план сада на рельефе" numbered="true" >}}
+{{< figure src="2.jpg" caption="Генеральный план сада на рельефе" numbered="false" >}}
 
  
-{{< figure src="4.jpg" caption="Современный сад небольшого участка" numbered="true" >}}
+{{< figure src="4.jpg" caption="Современный сад небольшого участка" numbered="false" >}}
 
 
-{{< figure src="5.jpg" caption="Генеральный план сада в современном стиле" numbered="true" >}}
+{{< figure src="5.jpg" caption="Генеральный план сада в современном стиле" numbered="false" >}}
 
 
