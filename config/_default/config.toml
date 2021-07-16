@@ -9,7 +9,7 @@
 title = "Kseniia Sergeeva"
 
 # timeout time
-timeout = 60000
+timeout = 90000
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
