@@ -1,6 +1,6 @@
 ---
 title: Генеральный план
-summary: empty 
+summary: С помощью программ AutoCAD, SketchUp и Photoshop
 tags:
 - visual
 
@@ -31,15 +31,15 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
+На фото вверху Генеральный план сада в пейзажном стиле
 
 - Генеральный план сада на рельефе
-- Генеральный план сада в пейзажном стиле
+{{< gallery album="galery1" >}}
+
 - Современный сад небольшого участка
+{{< gallery album="galery2" >}}
+
 - Генеральный план сада в современном стиле
-
-### Галерея
-
 {{< gallery album="galery" >}}
 
 
