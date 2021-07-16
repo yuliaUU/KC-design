@@ -2,7 +2,7 @@
 title: Маф
 summary: Проекты малых архитектурных форм
 tags:
-- comp
+- visual
 
 
 date: "2009-05-01T00:00:00Z"

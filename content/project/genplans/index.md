@@ -35,14 +35,14 @@ slides: example
 
 - Генеральный план сада на рельефе
  
-{{< gallery album="galery1" >}}
+![](/2.jpg)
 
 - Современный сад небольшого участка
  
-{{< gallery album="galery2" >}}
+![](/4.jpg)
 
 - Генеральный план сада в современном стиле
 
-{{< gallery album="galery" >}}
+![](/5.jpg)
 
 
