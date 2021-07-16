@@ -1,6 +1,6 @@
 ---
 title: скетчинг
-summary: empty
+summary: Быстрые наброски в программе SketchUp
 tags:
 - visual
 

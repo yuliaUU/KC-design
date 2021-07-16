@@ -1,6 +1,6 @@
 ---
 title: EMPTY
-summary: empty
+summary: Видеопрогулки по саду 3D" на YouTube. Проект сада можно сделать и в 3D
 tags:
 - 3d
 
@@ -32,10 +32,17 @@ image:
 slides: example
 ---
 
+{{< youtube ayVxL0S83Qs >}}
+
 {{< youtube IzIyz0H-7Uo >}}
 
 {{< youtube u3QrytcgJZY >}}
 
 {{< youtube iOdyqEgXbuE >}}
 
+{{< youtube gn4LLKuJSTw >}}
+
+{{< youtube XHyuzkAy9e8 >}}
+
+{{< youtube dY37l5S5i9A >}}
 
