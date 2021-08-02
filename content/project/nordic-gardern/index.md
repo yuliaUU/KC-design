@@ -2,7 +2,7 @@
 title: Nordic Gardern
 summary: Визуализация скандинавской классики в саду для Московской области
 tags:
-- docs
+- visual
 
 
 date: "2009-05-01T00:00:00Z"
