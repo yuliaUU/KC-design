@@ -42,9 +42,9 @@ feature:
   icon_pack: fas
   name: Enscape
 - description: ''
-  icon: pencil-ruler
+  icon: drafting-compass
   icon_pack: fas
-  name: CorelDraw
+  name: Civil 3D
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
