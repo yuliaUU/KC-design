@@ -36,6 +36,6 @@ slides: example
 
 ### Галерея
 
-{{< gallery album="redgardern" >}}
+{{< gallery album="img" >}}
 
 
