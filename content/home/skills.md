@@ -26,7 +26,7 @@ feature:
   icon_pack: fas
   name: Microsoft Office
 - description: ''
-  icon: drafting-compass
+  icon: pencil-ruler
   icon_pack: fas
   name: AutoCAD
 - description: ''
