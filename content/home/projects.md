@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Портфолио
-subtitle: ''
+subtitle: 'Человек приходит в сад не только ради собственного наслаждения, но и для того, чтобы испытать неудобства общения с природой. Сад не должен ставить в приоритет ни человека, ни природное окружение– сад должен сталкивать их, заставляя сосуществовать и вступать в живое взаимодействие в те моменты, когда каждая из сред вторгается в область другой.'
 
 content:
   # Page type to display. E.g. project.
@@ -26,8 +26,12 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   
   filter_button:
-  - name: All
-    tag: '*'
+  #- name: All
+  #  tag: '*'
+  - name: Проекты
+    tag: 'projects' 
+  - name: Планировки
+    tag: 'plans' 
   - name: Реализация
     tag: real
   - name: Визуализация
