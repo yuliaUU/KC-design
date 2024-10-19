@@ -2,7 +2,7 @@
 title: Генеральный план
 summary: С помощью программ AutoCAD, SketchUp и Photoshop
 tags:
-- visual
+- plans
 
 
 date: "2009-05-01T00:00:00Z"
@@ -40,6 +40,16 @@ slides: example
 {{< figure src="4.jpg" caption="Современный сад небольшого участка" numbered="false" >}}
 
 
-{{< figure src="5.jpg" caption="Генеральный план сада в современном стиле" numbered="false" >}}
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    {{< figure src="11.jpg" caption="1" numbered="false" >}}
+  </div>
+  <div>
+    {{< figure src="12.jpg" caption="2" numbered="false" >}}
+  </div>
+  <div>
+    {{< figure src="13.jpg" caption="3" numbered="false" >}}
+  </div>
+</div>
 
 
