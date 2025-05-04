@@ -32,17 +32,13 @@ image:
 slides: example
 ---
 
-{{< youtube ayVxL0S83Qs >}}
+{{< youtube dRZXfbBJk3U >}}
 
-{{< youtube IzIyz0H-7Uo >}}
 
-{{< youtube u3QrytcgJZY >}}
 
-{{< youtube iOdyqEgXbuE >}}
 
-{{< youtube gn4LLKuJSTw >}}
 
-{{< youtube XHyuzkAy9e8 >}}
 
-{{< youtube dY37l5S5i9A >}}
+
+
 
